@@ -1,0 +1,16 @@
+@inherits Microsoft.AspNetCore.Components.Forms.InputBase<string>
+
+<input type="text" 
+       class="form-control @CssClass" 
+       value="@CurrentValue" 
+       @onchange="EventCallback.Factory.CreateBinder<string>(this, __value => CurrentValueAsString = __value, CurrentValueAsString)" />
+
+@code {
+    // This allows the component to work with EditContext and Validation
+    protected override bool TryParseValueFromString(string? value, out string result, out string validationErrorMessage)
+    {
+        result = value ?? "";
+        validationErrorMessage = null;
+        return true;
+    }
+}

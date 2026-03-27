@@ -1,0 +1,9 @@
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\EmbeddedAttribute.cs
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.AssemblyInfoInputs.cache
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.AssemblyInfo.cs
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.csproj.CoreCompileInputs.cache
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.MvcApplicationPartsAssemblyInfo.cache
+D:\ElaisaAP3\Portfolio\obj\Debug\net10.0\Portfolio.sourcelink.json
